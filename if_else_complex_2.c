@@ -1,6 +1,5 @@
 #include <stdio.h>
 #pragma warining(disable:4996)
-#include <stdio.h>
 void main() {
     int year, month, day;
     printf("말일 검색하고 싶은 연도와 월을 입력: ");
@@ -30,4 +29,3 @@ void main() {
     else
         printf("잘못된 월을 입력 \n ");   
 }
-

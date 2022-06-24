@@ -10,3 +10,4 @@ void main() {
     printf("if문 실행 후 : a = %d, b = %d \n", a, b);
 }
 
+
